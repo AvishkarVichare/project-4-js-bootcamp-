@@ -17,4 +17,4 @@
 ![image](https://img.shields.io/badge/Full%20stack%20JS%20bootcamp-Hitesh%20Chaudhary-lightgrey)
 
 
-![image](https://github.com/AvishkarVichare/project-1/blob/master/2.png)
+![image](https://github.com/AvishkarVichare/project-6-js-bootcamp-/blob/master/6.png)
