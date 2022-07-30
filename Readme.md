@@ -1,6 +1,6 @@
-![image](https://img.shields.io/badge/project-7-red)
+![image](https://img.shields.io/badge/project-6-red)
 
-## Project-7  [live Link](https://crypto-page-design.netlify.app/)
+## Project-6  [live Link](https://plant-page-design.netlify.app/)
 
 **Name:** Avishkar Vichare
 
