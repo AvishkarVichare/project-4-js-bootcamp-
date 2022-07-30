@@ -6,7 +6,8 @@
 
 **What I learned in this project**:
 
-  - polished up my knowledge about nth-child and before after selectors
+  - Learned that we should make seperate CSS files.
+  - Learned to work with id's instead of classes.
 
 
 **The project took ***3 Hours*** to complete.** 
